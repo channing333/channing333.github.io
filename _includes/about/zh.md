@@ -2,9 +2,9 @@ Hi，我是呂聆煒，畢業於高雄師範大學，目前在[鴻程亞太科�
 
 
 ##### 開發經歷
-- [TeachInfinityII]
+- [TeachInfinityII](https://newline-interactive.com/zh-hant/products/teach-infinity/)
 ![image](/../../../img/TeachInfinityII.png) 
-- [IdeaMax]
+- [IdeaMax](https://newline-interactive.com/usa/products/ideamax-digital-whiteboard-software/)
 ![image](/../../../img/IdeaMax.png) 
 - [Newline Engage]
 ![image](/../../../img/Newline Engage.png) 
