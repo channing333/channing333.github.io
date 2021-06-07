@@ -1,0 +1,29 @@
+---
+layout: post
+title: "QT內Youtube影片播放問題"
+categories: "blog"
+header-img: "img/bg.jpg"
+tags:
+    - linux
+    - ubuntu18.04
+    - install
+---
+
+# QT內Youtube影片播放問題
+- 若直接使用QWebView-->速度太慢
+
+- 無法直接透過程式中去呼叫VLC取得Youtube影片中實際URL網址
+- 在其他下載影片網站KeepVid中，有些影片也無法下載
+    - https://www.youtube.com/watch?v=weeI1G46q0o
+    - ![](https://i.imgur.com/ac8FPce.png)
+- 權限問題
+- 網頁URL會一直更新
+    - VLC最新版本為2019.Jan(VLC的播放器，所有影片都可播)
+    - http://www.kbase101.com/question/8311.html
+        - 此網站使用linux系統，並且表示需要頻繁更新套件，因為Youtube會不停地更新URL
+
+## YouExtractor嘗試
+``` 
+YouTubeExtractor *extractor = new YouTubeExtractor(QUrl(webAddress));
+```
+此範例有些影片可以，有些影片不行[https://github.com/obeezzy/YouTubeExtractor]
