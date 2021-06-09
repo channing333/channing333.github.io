@@ -106,7 +106,10 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "Jimmy",
+        title: "Jimmy Chen",
         href: "https://github.com/jimmyw86878/"
+    },{
+        title: "Jimmy Lin",
+        href: "https://jimmylin212.github.io/"
     }
 ]
