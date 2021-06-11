@@ -5,15 +5,11 @@ Programming
 ##### Language
 TOEIC - 730 (2020)
 
-##### 開發經歷
-- [TeachInfinityII](https://newline-interactive.com/zh-hant/products/teach-infinity/)
+##### Projects
+### - [TeachInfinityII](https://newline-interactive.com/zh-hant/products/teach-infinity/)
 ![image](/../../../img/TeachInfinityII.png) 
-- [IdeaMax](https://newline-interactive.com/usa/products/ideamax-digital-whiteboard-software/)
+### - [IdeaMax](https://newline-interactive.com/usa/products/ideamax-digital-whiteboard-software/)
 ![image](/../../../img/IdeaMax.png) 
-- [Newline Engage]
+### - [Newline Engage]
 ![image](/../../../img/Newline Engage.png) 
-
-- [JavaScript 模块化七日谈][1] · 2015
-
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
 
