@@ -37,7 +37,7 @@ National Kaohsiung Normal University
 
 ## Skills 技能
 ### Programming language
-QT / Java / C# 
+Qt / Java / C# 
 ### OS
 Win / Linux / macOS
 ### Others
