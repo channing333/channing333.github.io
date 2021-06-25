@@ -6,7 +6,7 @@ header-img: "img/bg.jpg"
 tags:
     - win7
     - user32.dll
-    - QT
+    - Qt
 ---
 
 # win7_Missing entry points in USER32.dll stops program from launching, C++, VS2015
