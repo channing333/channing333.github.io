@@ -9,7 +9,9 @@ tags:
 ---
 
 # linux basic command
+
 Linux上面安裝包大多用兩種：
+
 * .deb
 * .rpm
 
@@ -23,5 +25,4 @@ dpkg --list(先列出有哪些軟體，這樣才知道軟體在Linux上面真正
 修改文檔：
 vim 檔案名稱
 :wq離開
-
 ```

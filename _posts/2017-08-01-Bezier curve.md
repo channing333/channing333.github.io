@@ -12,7 +12,6 @@ tags:
 
 貝茲曲線於1962年，由法國工程師皮埃爾·貝茲（Pierre Bézier）所廣泛發表，他運用貝茲曲線來為汽車的主體進行設計
 
-
 ## API Reference
 
 #### void QPainterPath::lineTo(const QPointF &endPoint)
