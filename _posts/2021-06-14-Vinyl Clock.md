@@ -24,3 +24,4 @@ tags:
 | 5  | T118088W(金色秒針) | 20210610 | ![](https://i.imgur.com/bWv9N6p.jpg =165x) ![](https://i.imgur.com/PjZiHOt.jpg =165x) |
 | 6   | T116075S(銀色秒針) | 20210612 |                      ![](https://i.imgur.com/lBA8dzJ.jpg =165x)                       |
 | 7 | T118088W(金色秒針) | 20210613 |                      ![](https://i.imgur.com/QWA8xjU.jpg =165x)                       |
+| 8 | T116075S(銀色秒針) | 20210620 |  ![](https://i.imgur.com/ZmWCTsT.jpg =165x) |
