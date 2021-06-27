@@ -54,10 +54,10 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-  math_engine: mathjax #20210625
-
-# 20210625 LateX數學公式 在markdown顯示
-mathjax: true
+      
+#20210627 channing emoji
+#plugins:
+ # - jemoji
 
 # Disqus settings
 disqus_username: channing333
