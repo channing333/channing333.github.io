@@ -37,7 +37,9 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
+  - jemoji #20210627 channing emoji
 
 
 
@@ -54,10 +56,6 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-      
-#20210627 channing emoji
-#plugins:
- # - jemoji
 
 # Disqus settings
 disqus_username: channing333
