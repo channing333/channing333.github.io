@@ -25,4 +25,7 @@ dpkg --list(先列出有哪些軟體，這樣才知道軟體在Linux上面真正
 修改文檔：
 vim 檔案名稱
 :wq離開
+
+Linux Standard Base 規格 (簡稱 LSB)
+版本資訊：lsb_release -a 
 ```
