@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Git ssh key generate"
+categories: "blog"
+header-img: "img/bg.jpg"
+tags:
+    - Git
+---
+
+# Git ssh key generate
+```
+ssh-keygen -t ed25519 -C "<comment>"
+cat ~/.ssh/id_ed25519.pub | clip
+貼到ssh key setting的地方
+```
