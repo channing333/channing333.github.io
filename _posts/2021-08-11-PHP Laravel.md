@@ -28,3 +28,10 @@ https://stackoverflow.com/questions/64686037/why-do-i-get-a-laravel-error-while-
 composer global remove laravel/installer 
 composer global require laravel/installer
 ```
+
+https://stackoverflow.com/questions/29318709/how-can-i-resolve-your-requirements-could-not-be-resolved-to-an-installable-set
+
+```
+composer install --ignore-platform-reqs
+composer update --ignore-platform-reqs
+```
