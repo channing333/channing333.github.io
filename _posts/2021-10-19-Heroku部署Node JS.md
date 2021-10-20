@@ -21,6 +21,7 @@ heroku open(直接開啟專案在瀏覽器)
 
 # mySQL雲端配置(非本地)
 
+在Heroku專案上加入ClearDB，注意免費版本只有5MB的資料量
 ## [相關步驟參考](https://medium.com/@jedy05097952/node-js-mysql-%E9%83%A8%E7%BD%B2-heroku-f07a2d75e72f)
 
 ```
