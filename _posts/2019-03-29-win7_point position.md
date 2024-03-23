@@ -7,6 +7,7 @@ tags:
     - win7
     - user32.dll
     - Qt
+    - dll
 ---
 
 # win7_Missing entry points in USER32.dll stops program from launching, C++, VS2015

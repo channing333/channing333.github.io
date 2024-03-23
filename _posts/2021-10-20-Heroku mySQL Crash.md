@@ -16,11 +16,9 @@ tags:
 ![](https://i.imgur.com/sUGxRsS.png)
 ![](https://i.imgur.com/yDIhkJ3.png)
 
-
 ## 解決方法
 ```
 Heroku restart 可解決
 但透過下面指令發現真正問題是server closed
 heroku logs --tail
 ```
-
