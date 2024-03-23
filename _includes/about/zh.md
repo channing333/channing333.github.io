@@ -46,6 +46,8 @@ Git
 TOEIC - 730 (2020)
 
 ## Projects 開發專案
+### - [ExpertWidget](https://www.asus.com/tw/support/faq/1047658/)
+![image](/../../../img/ExpertWidget.png) 
 ### - [TeachInfinityII](https://newline-interactive.com/zh-hant/products/teach-infinity/)
 ![image](/../../../img/TeachInfinityII.png) 
 ### - [IdeaMax](https://newline-interactive.com/usa/products/ideamax-digital-whiteboard-software/)
