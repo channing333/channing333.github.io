@@ -2,15 +2,22 @@
 #### 姓名：呂聆煒
 #### 聯絡電話：0910 610 827
 #### 信箱：channinglulingwei@gmail.com
-* 四年的跨平台軟體開發經驗，其中更包含主程式開發、驅動程式修改、多國語言翻譯、輸出PC端安裝檔。
-* 能與團隊開發成員順利溝通並以功能點切割去開發客戶需求
-* 擁有良好的溝通能力與測試工程師釐清問題原因並修正
-* 對於未知的程式架構能有耐心地閱讀
-* 使用敏捷式開發流程進行軟體開發
-* 對於使用者的操作行為有一定的敏銳度
+* 熟悉C# MVVM架構程式
+* 具引領團隊開發專案2年經驗
+* 具備4年跨平台軟體開發經驗
+* 熟悉Git管控與自動化部署
 ## Experience 經歷
+### [華碩 ASUSTeK Computer Inc.](https://www.asus.com/tw/) - Senior Software Engineer
+> 2021/12~目前
+* 使用C#開發並維護5套以MVVM為架構主體的程式，包含驅動更新、快捷工具設定、議題回報系統、Image燒錄
+* 使用Python開發Big Data程式，將公司內部資料進行分析，使數據進階化
+* 使用xUnit撰寫Unit test，測試覆蓋率達8成以上
+* 使用SQLite資料庫進行開發
+* 擔任兩大專案的專案領導者，同時負責內外溝通，偕同討論需求與分派工作，並同時進行多個專案
+* 嚴格遵守程式碼規範與SOLID設計原則進行敏捷式開發
+* 使用Git進行程式碼管控與CI/CD自動部署開發與維護
 ### [鴻程亞太科技股份有限公司](http://www.hitevision.com.tw/zh_TW/index.asp) - 跨平台軟體工程師
-> 2017/07/24~目前
+> 2017/07~2021/08
 ##### Main Project
 * 4年內使用Qt開發並維護3套跨平台白板軟體
 * 根據客戶需求與主管討論開發新功能
@@ -24,7 +31,7 @@
 * .exe轉.msi程式
 
 ### 捷耀光通訊股份有限公司 - 暑期實習
-> 2015年7月1日~2015年8月31日
+> 2015/07~2015/09
 * 撰寫公司產品購物網站，提供業務展示給客戶
 * 流程控制系統，監測光通訊硬體設備訊號是否異常
 
@@ -37,11 +44,11 @@ National Kaohsiung Normal University
 
 ## Skills 技能
 ### Programming language
-Qt / Java / C# 
-### OS
+C# / Qt / Java 
+### Platform
 Win / Linux / macOS
 ### Others
-Git
+Git / SQL / Agile Methodology
 ### Language
 TOEIC - 730 (2020)
 

@@ -1,33 +1,63 @@
-Hi, I am _@huxpro_ (Huang, Xuan), an UI/Frontend engineer & designer, accidentally growing into a compiler hacker. My current interests range from programming languages theory and implementation in general (compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection) to software engineering in the tech industry (client-side web/mobile app development, server-side backend, user interface and UX, developer infrastructure and DX). 
+## About me
+#### Name：LingWei Lu
+#### Mobile：(+886) 910 610 827
+#### Email：channinglulingwei@gmail.com
+* Familiar with C# MVVM architecture programming
+* Possess 2 years of experience leading team projects
+* 4 years experience of developing cross-platform software
+* Familiar with Git control and automated deployment
+## Experience 
+### [ASUSTeK Computer Inc.](https://www.asus.com/tw/) - Senior Software Engineer
+> 2021/12~Present
+* Developed and maintained 5 sets of programs using C# with MVVM architecture, including driver updates, hotkey settings, issue reporting system, and image burning.
+* Developed Big Data programs using Python to analyze internal company data
+* Wrote Unit tests using xUnit, achieving test coverage of over 80%
+* Developed using SQLite database
+* Acted as project leader for two major projects, responsible for both internal and external communication, discussing requirements, assigning tasks, and managing multiple projects simultaneously
+* Strictly adhere to coding standards and SOLID design principles for agile development
+* Using Git for code version control and CI/CD automated deployment development and maintenance
+### [Hitevision](http://www.hitevision.com.tw/zh_TW/index.asp) - Cross-Platform Software Engineer
+> 2017/07~2021/08
+##### Main Project
+* Successfully developed and maintained 3 pieces of cross-platform(Windows/Linux/macOS) software with Qt in 4 years, including main program, modifying drivers, translating languages, and output installing files
+* Successfully overwrote with the new drawing function, and improved performance by 10%
+* Cooperated with the UX/UI designer to design layouts with Zeplin
+* Solving problems reported by customers, including OS problems, program problems, or user's behaviors 
+* Developed the translating tool with C#, and let the software translate into 23 languages in 60 countries
+* Developed new functions using Agile methodologies and successfully fulfilled customer demands
+>
+##### Side Project
+* Multilingual Translation Tool
+* Convert .exe to .msi program
 
-I'm currently working on the [Hermes JavaScript Engine](https://hermesengine.dev/) at [Facebook](http://facebook.com/). I was also involved in some of the [Facebook Reality Labs](https://tech.fb.com/ar-vr/) and the [ReasonML](https://reasonml.github.io/) (now [ReScript](https://rescript-lang.org/)) efforts. I'm also passionated about [React](https://reactjs.org/) and [React Native](https://reactnative.dev/). 
+###  RADIANTECH, Inc - Intern
+> 2015/07~2015/09
+*  Used ASP.NET to develop the showing part of products on shopping websites for salespeople to demo
+ to customers
+*  Developed process control system with C# to detect signals emitted from devices, and provided with warnings
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at an unicorn startup company [Beijing Weiying (a.k.a. WePiao, now acquired by Maoyan)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me (now acquired by Alibaba)](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web site into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
+## Education 
+### [National Kaohsiung Normal University](https://dept.nknu.edu.tw/WE/zh/) 
+>2012/09 - 2016/06
 
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
+Bachelor of Software Engineering
+## Skills 
+### Programming language
+C# / Qt / Java 
+### Platform
+Win / Linux / macOS
+### Others
+Git / SQL / Agile Methodology
+### Language
+TOEIC - 730 (2020)
 
-##### [My PL Spectrum (WIP 🚧)](https://huangxuan.me/2020/05/05/pl-chart/)
+## Projects 
+### - [ExpertWidget](https://www.asus.com/tw/support/faq/1047658/)
+![image](/../../../img/ExpertWidget.png) 
+### - [TeachInfinityII](https://newline-interactive.com/zh-hant/products/teach-infinity/)
+![image](/../../../img/TeachInfinityII.png) 
+### - [IdeaMax](https://newline-interactive.com/usa/products/ideamax-digital-whiteboard-software/)
+![image](/../../../img/IdeaMax.png) 
+### - [Newline Engage](https://newline-interactive.com/products/whiteboard/)
+![image](/../../../img/Newline Engage.png) 
 
-I made a chart to visualize my experiences and interests on some of the programming languages. I know. I know this is always contraversial. But it's just something quite self-entertaining to do. So bare with me and have fun reading that!
-
-##### Appearence
-
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux Beijing 2017
-- PWA Rehashing · Baidu HQ Beijing 2017
-- [Service Worker 101][5] · GDG DevFest Beijing 2016
-- [Progressive Web Apps][4] · QCon Shanghai 2016
-- Progressive Web App in my POV · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript Modularization Journey][1] · 2015
-
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
